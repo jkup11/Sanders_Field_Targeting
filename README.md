@@ -3,7 +3,7 @@
 ### Course: DPI321 at HKS
 ### Author: Josh Kuppersmith and the Bernie Sanders Campaign Team
 
-![photo](https://raw.githubusercontent.com/jkup11/Sanders_Field_Targeting/map.png)
+![Alt text](map.png?raw=true "Title")
 
 Data strategies for Bernie Sanders campaign team for DPI321 campaign plan
 
